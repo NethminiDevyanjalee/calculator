@@ -1,4 +1,4 @@
-package com.kelaniya.uni;
+package com.kelaniya.uni.v0;
 
 public class Operation {
     static double add(double n1, double n2) {
